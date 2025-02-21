@@ -13,7 +13,7 @@ def get_weather() -> list:
 
     root_url = 'https://api.openweathermap.org'
     endpoint = 'data/2.5/weather'
-    api_key = '8e78a2dec9bfb456033d9e0e5922ae6b'
+    api_key = '*************************'
     cities = ['Antwerp', 'Bruges', 'Brussels', 'Charleroi', 'Ghent', 'Leuven', 'Liege', 'Mons', 'Namur', 'Ostend']
 
     responses = []
